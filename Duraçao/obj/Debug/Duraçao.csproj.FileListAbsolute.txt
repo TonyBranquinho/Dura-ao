@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Duraçao\Duraçao\bin\Debug\Duraçao.exe.config
+C:\temp\ws-vs2019\Duraçao\Duraçao\bin\Debug\Duraçao.exe
+C:\temp\ws-vs2019\Duraçao\Duraçao\bin\Debug\Duraçao.pdb
+C:\temp\ws-vs2019\Duraçao\Duraçao\obj\Debug\Duraçao.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Duraçao\Duraçao\obj\Debug\Duraçao.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Duraçao\Duraçao\obj\Debug\Duraçao.exe
+C:\temp\ws-vs2019\Duraçao\Duraçao\obj\Debug\Duraçao.pdb
